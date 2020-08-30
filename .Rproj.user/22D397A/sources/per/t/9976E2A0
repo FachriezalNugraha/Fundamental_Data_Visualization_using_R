@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1598719805146.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3385918471",
+    "id" : "9976E2A0",
+    "lastKnownWriteTime" : 1598720392,
+    "last_content_update" : 1598720392544,
+    "path" : "E:/Learn DqLab/Fundamental Data Visualization using R/Fundamental Data Visualization using R/Fundamental Data Visualization using R.R",
+    "project_path" : "Fundamental Data Visualization using R.R",
+    "properties" : {
+        "cursorPosition" : "6,30",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
